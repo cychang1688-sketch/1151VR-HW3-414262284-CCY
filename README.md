@@ -4,13 +4,13 @@
 
 ![專案截圖](1151VR-HW3-414262284-張智瑜.png)
 
-## YouTube 連結
-
-https://youtube.com/shorts/yKaAb8zQwAM
-
 ## GitHub 連結
 
 https://github.com/cychang1688-sketch/1151VR-HW3-414262284-CCY.git
+
+## YouTube 連結
+
+https://youtube.com/shorts/yKaAb8zQwAM
 
 ## 製作流程及相關操作說明
 
